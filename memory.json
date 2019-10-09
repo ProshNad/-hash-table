@@ -1,0 +1,34 @@
+{
+    "size1": {
+        "0": "1"
+    },
+    "element1": {
+        "00": "\nSmith\nAnna\nMaria\n+79186693919\nannasmith@gmail.com\nSomecompany.inc\nSome"
+    },
+    "book1": {
+        "size": "1"
+    },
+    "opr": "3",
+    "size2": {
+        "0": "2"
+    },
+    "element2": {
+        "00": "\nSmith\nAnna\nMaria\n+79186693919\nannasmith@gmail.com\nSomecompany.inc\nSome",
+        "01": "\nSmith\nTom\nBen\n89184305505\ntomsmith@gmail.com\nVerybigcompany.inc\nManager"
+    },
+    "book2": {
+        "size": "1"
+    },
+    "size3": {
+        "0": "2",
+        "1": "1"
+    },
+    "element3": {
+        "00": "\nSmith\nAnna\nMaria\n+79186693919\nannasmith@gmail.com\nSomecompany.inc\nSome",
+        "01": "\nSmith\nTom\nBen\n89184305505\ntomsmith@gmail.com\nVerybigcompany.inc\nManager",
+        "10": "\nJones\nMay\nKate\n+7-(918)-04-88-987\nmayjones@gmail.com\nNotBigCompany.inc\nBoss"
+    },
+    "book3": {
+        "size": "2"
+    }
+}
